@@ -1,2 +1,3 @@
 # hello-world
-First directory
+
+This is my very first git hub attempt!
